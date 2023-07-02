@@ -61,3 +61,13 @@
 *.wsuo
 /.vs
 /C01/Averages/Averages/bin/Debug/net6.0
+*.dll
+*.pdb
+*.exe
+*.cache
+/C04/C01_Define/obj
+/C04/C01_Define/bin/Debug/net7.0
+/C04/C02_Constraints/obj
+/C04/C02_Constraints/bin/Debug/net7.0
+/C09/C01_Delegates/C0102/bin/Debug/net7.0
+/C09/C01_Delegates/C0102/obj
